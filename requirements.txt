@@ -137,7 +137,7 @@ python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.8.2
 python-debian===0.1.36ubuntu1
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==22.3.0
 qtconsole==5.2.2
 QtPy==2.0.0
